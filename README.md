@@ -1,6 +1,4 @@
-# AnyCAST
-AnyCAST: Can we directly forecast any sites of PV power generation?
+# Graph-based Large Scale Probabilistic PV Power Forecasting Insensitive to Space-Time Missing Data
 
-This repository is on-going work. 
+The code will be updated soon.
 
-Keywords: Graph Neural Network, Semi-supervised learning, ???
